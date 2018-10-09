@@ -4,7 +4,7 @@
 
 #### By _**Phil Mass and Rohan Moore**_
 
-##Description
+## Description
 
 _This is just a silly webpage we made as part of our class, I'm sure we'll make much better things down the road._
 
